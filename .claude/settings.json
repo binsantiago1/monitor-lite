@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/santi/.claude/projects/c--Users-santi-Desktop-Desk-apps-monitor-lite/memory/**)",
+      "Bash(npx tsc *)",
+      "Bash(npm install *)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\santi\\.claude\\projects\\c--Users-santi-Desktop-Desk-apps-monitor-lite\\memory"
+    ]
+  }
+}
